@@ -1,0 +1,20 @@
+
+git c
+------------
+git config --global user.name "username"
+use: configure git locally so it knows your git account user name.
+username=your git user name
+
+git config --global user.email "emailaddress"
+use: configure git so it knows your git account email address
+emailaddress = email address for your git account
+
+git clone URL
+use: copys the master respository online to your local file system in a directory with the name of the repository
+URL = repository to clone from git online
+
+touch filename
+use: create a new file
+filename= the new file name
+
+
