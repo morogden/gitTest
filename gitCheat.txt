@@ -17,4 +17,15 @@ touch filename
 use: create a new file
 filename= the new file name
 
+git add filename
+use: add a filename for git to watch
+
+git commit -m "message to document changes"
+use: document the changes you made to the file
+
+git push -u origin master
+use: push from the origin repo to online repo
+
+
+
 
